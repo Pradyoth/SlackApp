@@ -9,7 +9,7 @@ Install socket.io by using the command : npm install socket.io <br />
 Install VSCode from https://code.visualstudio.com/download <br />
 Install latest version of Node.js from https://nodejs.org <br />
 Install Express.js by using the following command : npm install --save express <br />
-Run the app locally by going into the slack directory and running the following command : node slack.js and visit http://localhost:9004.
+Run the app locally by going into the slack directory and running the following command : node slack.js and visit http://localhost:9013.
 
 
 
